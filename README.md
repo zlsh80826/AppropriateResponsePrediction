@@ -88,7 +88,7 @@ python inference.py
 
 ### Performance
 
-Based on the [Kaggle Leader Board](https://www.kaggle.com/c/datalabcup-predicting-appropriate-response/leaderboard), our implementation is second prize (the first two are fake).
+Based on the [Kaggle Leaderboard](https://www.kaggle.com/c/datalabcup-predicting-appropriate-response/leaderboard), our implementation is second prize (the first two are fake).
 
 |              |Public score|Private score|
 |--------------|------------|-------------|
