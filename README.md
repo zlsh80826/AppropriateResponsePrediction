@@ -1,11 +1,4 @@
 # Appropriate Answer Prediction
-===================================
-
-----
-
-|Author|zlsh80826          |
-|------|-------------------|
-|E-mail|zlsh80826@gmail.com|
 
 ----
 
@@ -14,10 +7,11 @@
 * A CNTK (Microsoft deep learning toolkit) implementation of CS565600 competition
 * We use LSTM + attention to do this task
 * For more model information, please refer to the [report](https://github.com/zlsh80826/AppropriateResponsePrediction/blob/master/script/Report.ipynb)
+* If you meet any problem in this repo, feel free to contact zlsh80826@gmail.com
 
 ## Requirements
 
-Here are some required libraries for training.
+Here are some required libraries for training
 
 ### General
 * python3
@@ -94,9 +88,9 @@ python inference.py
 
 ### Performance
 
-Based on the [leader board](https://www.kaggle.com/c/datalabcup-predicting-appropriate-response/leaderboard), our implementation is second prize (the first two are fake).
+Based on the [Kaggle Leader Board](https://www.kaggle.com/c/datalabcup-predicting-appropriate-response/leaderboard), our implementation is second prize (the first two are fake).
 
-|--------------|Public score|Private score|
+|              |Public score|Private score|
 |--------------|------------|-------------|
 |Single Model  | 73.6       |  71.6       |
-|Ensumble Model| 76.4       |  72         |
+|Ensemble Model| 76.4       |  72         |
